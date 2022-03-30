@@ -2,8 +2,8 @@
 2 line firstFile git_1
 3 line firstFile git_1
 4 line firstFile git_1
-5 line firstFile git_1
-6 line firstFile git_1
+5 line firstFile git_1 from clone
+6 line firstFile git_1 from clone
 7 line firstFile git_1 update item 7
 8 line firstFile git_1 update item 7
 9 line firstFile git_1 update item 8
