@@ -1,8 +1,8 @@
-1 line secondFile git_1
+1 line secondFile git_1 updated
 2 line secondFile git_1
 3 line secondFile git_1
 4 line secondFile git_1
-5 line secondFile git_1
+5 line git_1 updated
 6 line secondFile git_1
 7 line secondFile git_1
 8 line secondFile git_1
